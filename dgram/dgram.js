@@ -15,4 +15,4 @@ server.on('listening', () => {
   console.log(`服务器监听 ${address.address}:${address.port}`);
 });
 
-server.bind(41234);
+server.bind(process.env.port || 41234);
