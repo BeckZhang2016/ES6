@@ -1,0 +1,2342 @@
+{
+  "traceEvents": [
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594481102,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.NewContext",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594495916,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.NewContext",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594495950,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594495958,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594496279,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594496284,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594496319,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594496341,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594496403,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594497039,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594497042,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594497066,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594497566,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594498459,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594499106,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594499113,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594499118,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594499875,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594501154,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594501176,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594501190,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594501305,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594503621,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594503661,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594503676,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594503921,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594504703,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594504726,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594504730,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594504776,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594505373,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594505379,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594505383,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594506912,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594507029,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594507033,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594507038,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594507602,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594508593,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594508616,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594508622,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594508765,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594508857,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594508860,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594508863,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594508895,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594509616,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594509621,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594509628,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594509824,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594509836,
+      "tts": 0,
+      "ph": "X",
+      "cat": "v8",
+      "name": "V8.GCScavenger",
+      "dur": 1193,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594511748,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594511755,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594511765,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594512238,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594512621,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594512626,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594512631,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594513702,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594513963,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594513969,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594513973,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594514322,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594514694,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594514699,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594514702,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594515076,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594515261,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594515265,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594515269,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594515514,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594515724,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594515728,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594515732,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594516592,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594519059,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594519080,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594519095,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594519146,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594519278,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594519282,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594519286,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594519443,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594520060,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594520065,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594520069,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594520611,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594522171,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594522184,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594522204,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594522826,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594523646,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594523669,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594523675,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594523688,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594523884,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594523888,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594523893,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594523921,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594524107,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594524111,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594524115,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594524160,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594526598,
+      "tts": 0,
+      "ph": "X",
+      "cat": "v8",
+      "name": "V8.GCScavenger",
+      "dur": 1052,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594528335,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594528429,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594528444,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594528601,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594528764,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594528771,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594528774,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594528786,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594528923,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594528927,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594528930,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594529009,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594530079,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594530085,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594530091,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594530175,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594530324,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594530328,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594530332,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594530358,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594530467,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594530471,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594530474,
+      "tts": 0,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594530537,
+      "tts": 0,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594531200,
+      "tts": 405413,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594531205,
+      "tts": 405417,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594531210,
+      "tts": 405422,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594531373,
+      "tts": 405585,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594531536,
+      "tts": 405748,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594531539,
+      "tts": 405751,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594531543,
+      "tts": 405755,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594531632,
+      "tts": 405844,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594531871,
+      "tts": 406083,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594531874,
+      "tts": 406086,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594531877,
+      "tts": 406089,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594531909,
+      "tts": 406121,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594531986,
+      "tts": 406198,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594531989,
+      "tts": 406201,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594531991,
+      "tts": 406203,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594532061,
+      "tts": 406273,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594532231,
+      "tts": 406443,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594532234,
+      "tts": 406445,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594532237,
+      "tts": 406449,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594537182,
+      "tts": 411137,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594537254,
+      "tts": 411208,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594537269,
+      "tts": 411223,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594537273,
+      "tts": 411227,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594537562,
+      "tts": 411516,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594537935,
+      "tts": 411889,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594537939,
+      "tts": 411893,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594537943,
+      "tts": 411897,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594538626,
+      "tts": 412580,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594538892,
+      "tts": 412846,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594538895,
+      "tts": 412849,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594538898,
+      "tts": 412852,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594539147,
+      "tts": 413101,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594541043,
+      "tts": 414998,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594541053,
+      "tts": 415007,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594541062,
+      "tts": 415015,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594541075,
+      "tts": 415028,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594541150,
+      "tts": 415104,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.ScriptCompiler",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594541152,
+      "tts": 415106,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594541155,
+      "tts": 415109,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594561274,
+      "tts": 431394,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594563042,
+      "tts": 433162,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594563101,
+      "tts": 433219,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594563461,
+      "tts": 433407,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594564789,
+      "tts": 434172,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594564809,
+      "tts": 434191,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594565027,
+      "tts": 434408,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594565034,
+      "tts": 434415,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594565052,
+      "tts": 434434,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594565066,
+      "tts": 434447,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594565073,
+      "tts": 434455,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594565076,
+      "tts": 434457,
+      "ph": "B",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {}
+    },
+    {
+      "pid": 8624,
+      "tid": 3368,
+      "ts": 350594565079,
+      "tts": 434460,
+      "ph": "E",
+      "cat": "v8",
+      "name": "V8.Execute",
+      "dur": 0,
+      "tdur": 0,
+      "args": {
+        "runtime-call-stats": {}
+      }
+    }
+  ]
+}
